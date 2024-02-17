@@ -1,0 +1,6 @@
+To install VCL, simply copy the executable file into your path ;
+
+e.g /usr/local/bin
+
+If you are going to use gasp with vcl, make sure that gasp 
+is installed and in your path.
